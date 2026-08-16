@@ -126,7 +126,7 @@ function App() {
       )}
 
       <div className="header">
-        <h1><FileSpreadsheet size={32} /> Excel Merger</h1>
+        <h1><FileSpreadsheet size={32} /> CÔNG CỤ GHÉP FILE EXCEL</h1>
         <p>Công cụ ghép file Excel nhanh chóng, giữ nguyên định dạng (in đậm, gộp ô).</p>
       </div>
 
